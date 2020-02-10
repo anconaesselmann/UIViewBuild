@@ -1,0 +1,6 @@
+framework module UIViewBuild {
+  umbrella header "UIViewBuild-umbrella.h"
+
+  export *
+  module * { export * }
+}

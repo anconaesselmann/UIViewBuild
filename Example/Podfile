@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UIViewBuild_Example' do
+  pod 'UIViewBuild', :path => '../'
+
+  target 'UIViewBuild_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

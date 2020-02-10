@@ -1,0 +1,22 @@
+{
+  "name": "UIViewBuild",
+  "version": "0.1.0",
+  "summary": "A short description of UIViewBuild.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ancona-esselmann/UIViewBuild",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ancona-esselmann": "axel@vida.com"
+  },
+  "source": {
+    "git": "https://github.com/ancona-esselmann/UIViewBuild.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UIViewBuild/Classes/**/*"
+}

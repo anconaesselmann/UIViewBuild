@@ -1,0 +1,16 @@
+PODS:
+  - UIViewBuild (0.1.0)
+
+DEPENDENCIES:
+  - UIViewBuild (from `../`)
+
+EXTERNAL SOURCES:
+  UIViewBuild:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIViewBuild: f100bcbd75e216ab27db134211f06c1a765045b4
+
+PODFILE CHECKSUM: d62ec1a6719a8f002878a64ad5758dc59be63cbf
+
+COCOAPODS: 1.8.4
