@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'UIViewBuild'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Create views, lay out subviews and bind the view to a view model.'
   s.swift_version    = '5.0'
 
@@ -18,5 +18,5 @@ Create views, lay out subviews and bind the view to a view model.
 
   s.source_files = 'UIViewBuild/Classes/**/*'
 
-  s.dependency 'Tuple', '= 0.1.0'
+  s.dependency 'Tuple'
 end
